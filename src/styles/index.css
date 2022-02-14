@@ -1,0 +1,6 @@
+html body {
+  font-family: sans-serif;
+  background: repeat-y url("../../src/assets/background4.png");
+  background-size: cover;
+  text-align: center;
+}
